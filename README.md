@@ -59,8 +59,8 @@ Compare the original, opened, and closed images.
 
 ## Developed By
 
-### Name : TIMMAPURAM YOGEESWAR
-### Register number : 212223230233
+### Name : PAVITHRAN S
+### Register number : 212223240113
 
 ## Output
 ## PROGRAM
