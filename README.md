@@ -1,7 +1,7 @@
 # Exp-10--Record-IMPLEMENTATION-OF-OPENING-AND-CLOSING
 # Opening and Closing Operations Using OpenCV
-### Name : TIMMAPURAM YOGEESWAR
-### Register number : 212223230233
+### Name : PAVITHRAN S
+### Register number : 212223240113
 ## Aim
 
 To write a Python program using OpenCV to perform morphological Opening and Closing operations on an image.
