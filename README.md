@@ -106,7 +106,8 @@ plt.title("Opening Operation")
 plt.axis('off')
 ```
 
-<img width="1014" height="418" alt="image" src="https://github.com/user-attachments/assets/48c43cb9-91ad-4a04-86d3-3d9acc232dab" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/04bf7b97-a467-4768-84ba-bfefa2f2b99b" />
+
 
 
 ### Closing Operation
@@ -122,7 +123,8 @@ plt.axis("off")
 plt.show()
 ```
 
-<img width="1018" height="470" alt="image" src="https://github.com/user-attachments/assets/d6fa8df8-c132-4753-a4ef-fab090638898" />
+<img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/2dadccb0-358b-4662-9d5a-3055a90c953d" />
+
 
 
 
