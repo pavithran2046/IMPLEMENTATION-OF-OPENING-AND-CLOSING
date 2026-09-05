@@ -77,7 +77,8 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 cv2.putText(image, '212223230233', (100, 250), font, 1, (255, 255, 255), 2, cv2.LINE_AA)
 ```
 
-<img width="1026" height="792" alt="image" src="https://github.com/user-attachments/assets/31a6f561-ac90-47d2-93c8-3d3111c1c149" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/66c0b91f-fdb4-4a47-993f-36edd62e1881" />
+
 
 
 ### Original Image
